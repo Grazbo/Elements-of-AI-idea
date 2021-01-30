@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Predicting Air Quality for Schools
 
 Mapping the cause and effect of traffic and weather on air quality in schools and the school run
 
